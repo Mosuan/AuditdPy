@@ -107,7 +107,7 @@ sudo /etc/init.d/auditd restart
 ```
 sudo auditctl -l
 ```
-下面就是加载成功的样子：
+##### 加载成功的样子
 ![auditctl][2]
 
 #### auditdPy 配置
