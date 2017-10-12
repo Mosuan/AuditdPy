@@ -91,4 +91,4 @@ sudo python main.py stop
 
 
 [Python 2.7]: https://img.shields.io/badge/python-2.7-brightgreen.svg
-[2]: https://github.com/Mosuan/AuditdPy/docs/elkraa.md
+[2]: https://github.com/Mosuan/AuditdPy/blob/master/docs/elkraa.md
