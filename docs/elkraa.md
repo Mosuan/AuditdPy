@@ -1,5 +1,6 @@
 # elkraa 部署文档
 ![][Python 2.7] ![][redis]
+
 elkraa是什么
 ----
 * elasticsearch
@@ -186,11 +187,11 @@ cat /tmp/auditd_py_error.log
 
 
 
-  [1]: http://static.secbox.cn/2017-10-12-elkeaa.jpg
-  [2]: http://static.secbox.cn/2017-10-12-auditctl.jpg
+  [1]: http://chuantu.biz/t6/93/1507805942x1033161390.jpg
+  [2]: http://chuantu.biz/t6/93/1507805758x1033161390.jpg
   [Python 2.7]: https://img.shields.io/badge/python-2.7-brightgreen.svg
   [redis]: https://img.shields.io/badge/redis-4.0.1-red.svg
   [3]: http://redis-py.readthedocs.io/en/latest/
   [4]: https://kibana.logstash.es/content/logstash/scale/redis.html
   [5]: https://access.redhat.com/documentation/zh-cn/red_hat_enterprise_linux/7/html/security_guide/sec-understanding_audit_log_files
-  [6]: http://static.secbox.cn/2017-10-12-46C02DDF193BBDD707ADFA88AC0805AC.jpg
+  [6]: http://chuantu.biz/t6/93/1507805878x1033161390.png
