@@ -12,12 +12,12 @@ elkraa是什么
 
 以上这些程序的首字母、简称，每次都打出全部的感觉好累，就这样简称吧。
 
-### 均以 Ubuntu 为例
+### 均以 Ubuntu 为例  
 
 服务器要求
 ----
 ```
-server    n台     简称为Auditd机器
+server    N台     简称为Auditd机器
 elk+redis 一台    简称为elk机器
 ```
 
